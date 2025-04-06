@@ -1,7 +1,7 @@
 {
-  "name": "Escape Eni",
-  "short_name": "Escape Eni",
-  "description": "Get Seven Coins Without Touching The Yellow Character!",
+  "name": "Move Box",
+  "short_name": "MB",
+  "description": "You're a purple square that has to touch a red square without touching purple lines",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -9,7 +9,7 @@
   "icons": [
     {
       "src": "icon.png",
-      "sizes": "557x557",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
