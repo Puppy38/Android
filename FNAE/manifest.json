@@ -1,7 +1,7 @@
 {
-  "name": "Escape Eni",
-  "short_name": "Escape Eni",
-  "description": "Get Seven Coins Without Touching The Yellow Character!",
+  "name": "Five Nights At Eni's",
+  "short_name": "fnae",
+  "description": "a game inspired by f i v e",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -9,7 +9,7 @@
   "icons": [
     {
       "src": "icon.png",
-      "sizes": "557x557",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
