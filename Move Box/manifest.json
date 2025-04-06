@@ -1,6 +1,6 @@
 {
   "name": "Move Box",
-  "short_name": "MB",
+  "short_name": "MBox",
   "description": "You're a purple square that has to touch a red square without touching purple lines",
   "start_url": "index.html",
   "display": "standalone",
